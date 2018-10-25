@@ -1,0 +1,21 @@
+div workarea {
+}
+
+#frm { 
+	position: absolute;
+	height: 750;
+	left: 850;
+	top: 10;
+	width: 750;
+}
+
+#slot {
+	display: block;
+	height: 40;
+	width: 100;
+}
+
+input {
+	width: 10;
+	border: 0px;
+}
